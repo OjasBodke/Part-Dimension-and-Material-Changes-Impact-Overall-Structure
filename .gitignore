@@ -1,0 +1,36 @@
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints
+# If you want to keep notebooks committed, comment out the next line
+#*.ipynb
+
+# Virtual environment
+venv/
+.env/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data and models
+data/
+models/
+*.h5
+*.pt
+*.ckpt
+
+# Logs
+logs/
+*.log
+
+# PyCharm
+.idea/
+
+# Coverage
+htmlcov/
+.coverage
